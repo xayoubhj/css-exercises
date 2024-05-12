@@ -1,0 +1,23 @@
+.redback {
+    background-color: #ff000080;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.bigger {
+    font-size: 30px;
+}
+
+#bluebig , #coolgreen {
+    font-weight: 700;
+}
+
+#bluebig {
+    color: #0000ff;
+    font-size: 35px;
+}
+
+#coolgreen {
+    background-color: #00ff0080;
+    font-size: 25px;
+}
